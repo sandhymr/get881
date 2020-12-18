@@ -9,7 +9,7 @@ public class Calculator {
 	}
 	
 	public void mul(int num1,int num2) {
-		System.out.println("Multiplication :"+ (num1*num2));
+		System.out.println("Multiplication :"+ (num1-num2));
 	}
 	
  
