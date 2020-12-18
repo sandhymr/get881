@@ -7,7 +7,7 @@ public class Calculator {
 	
 	
 	public void display() {
-		System.out.println("Result");
+		System.out.println("add");
 	}
 	
  
